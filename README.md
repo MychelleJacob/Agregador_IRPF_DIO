@@ -52,3 +52,19 @@ As imagens abaixo apresentam as principais seções da planilha:
 ---
       
 ## 📁 Organização do Repositório
+
+# Clone o repositório (caso ainda não tenha feito)
+git clone https://github.com/seu-usuario/agregador-irpf-excel.git
+cd agregador-irpf-excel
+
+# Extraia o conteúdo do ZIP dentro do repositório
+# (Ou mova os arquivos manualmente para a pasta clonada)
+
+# Adicione todos os arquivos
+git add .
+
+# Crie o commit com uma mensagem clara
+git commit -m "Adiciona planilha, imagens, documentação e README do projeto IRPF"
+
+# Envie para o GitHub
+git push origin main
